@@ -1,4 +1,4 @@
-# Welcome to my github 👋
+# Welcome 👋
 <h2 align = "center"><strong>My name is Hai 😎</strong></h2>
 <h3><strong>About me✨</strong></h3>
 + 🏡 Hometown: Hue city, Viet Nam<br>
