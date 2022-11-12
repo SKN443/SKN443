@@ -1,5 +1,5 @@
 # Welcome 👋
-<h2 align = "center"><strong>My name is Hai 😎</strong></h2>
+<h2 align = "center"><strong>I'm Hai 😎</strong></h2>
 <h3><strong>About me✨</strong></h3>
 <ul><li>🏡 Hometown: Hue city, Viet Nam</li><br>
 <li>🖊 Secondary school: Nguyen Chi Dieu</li><br>
